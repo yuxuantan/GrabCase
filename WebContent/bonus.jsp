@@ -16,7 +16,7 @@
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
 		<div class="navbar-nav">
 			<a class="nav-item nav-link" href="index.jsp">Main Qn</a> 
-			<a class="nav-item nav-link active" href="#">Bonus Qn <span class="sr-only">(current)</span></a> 
+			<a class="nav-item nav-link active" href="bonus.jsp">Bonus Qn <span class="sr-only">(current)</span></a> 
 		</div>
 	</nav>
 	<div align="center">

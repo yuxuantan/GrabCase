@@ -15,7 +15,7 @@
 <body>
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
 		<div class="navbar-nav">
-			<a class="nav-item nav-link active" href="#"> <span class="sr-only">(current)</span> Main Qn</a> 
+			<a class="nav-item nav-link active" href="index.jsp"> <span class="sr-only">(current)</span> Main Qn</a> 
 			<a class="nav-item nav-link" href="bonus.jsp">Bonus Qn </a> 
 		</div>
 	</nav>
